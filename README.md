@@ -1,1 +1,1 @@
-# Malaria-detectrion
+# Malaria-detection
